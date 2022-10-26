@@ -1,2 +1,2 @@
-# Games_in_JS
+# Games in JS
 Small arcade games implemented in Javascript
